@@ -1,0 +1,8 @@
+Carregar os dados dos arquivos nas respectivas tabelas 
+Quantos estudantes obtiveram média acima de 83.5 ? 
+Faça uma consulta que retorne os cursos dados ordenados em "ordem" alfabética. 
+Faça uma consulta que retorne o nome de todas as pessoas cujo o último nome termina com "ez"
+Quantos estudantes precisaram de 3 tentativas para serem aprovados 
+Usando uma lógica condicional retorne : Id do aluno, nota, aprovado ou reprovado. Aprovado se nota >= 70.0 
+  Dica: Fazer conforme o exemplo ### Using Conditional Logic in a SELECT Statement ####  do notebook 
+

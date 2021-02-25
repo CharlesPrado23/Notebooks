@@ -1,0 +1,6 @@
+Realizar uma consulta que retorne os nomes dos cursos cuja a média obtida (AVG) pelo alunos foi maior ou igual 75.0  
+
+Realizar uma consulta que retorne os email dos alunos que cursaram 3 vezes um mesmo curso 
+
+(DESAFIO) Realizar uma consulta que retorne os nomes dos professores mais carrascos - isto é - aqueles cujo o número de alunos reprovados (média menor que 70.0) foi maior do que de
+alunos aprovados.
